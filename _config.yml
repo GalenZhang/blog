@@ -1,0 +1,26 @@
+encoding: UTF-8
+markdown: redcarpet
+permalink: /:categories/:title.html
+url: 
+lsi: false
+highlighter: pygments
+safe: true
+watch: false 
+
+paginate: 8
+paginate_path: "page:num"
+
+# presonal config
+title: Galen Zhang's Blog
+description: Galen Zhang's Blog, powered by Jekyll...
+feed: http://www.twenty-nine.cn/atom.xml
+
+author: Galen Zhang
+
+seo: 
+  keyword: 
+  description: 
+config:
+  js_dir:
+  img_dir:
+  css_dir:
