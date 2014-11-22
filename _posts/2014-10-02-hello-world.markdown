@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 category: mood
 title:  "你好，世界"
 tags: [心情,人生]
